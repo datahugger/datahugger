@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @datahugger
+- 👋 Hi, I’m Sattick
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning SQL, Excel, Power BI and Tableu
 - 💞️ I’m looking to collaborate on any Projrct for beginners based on Data Analytics
