@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sattick
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL, Excel, Power BI and Tableu
-- 💞️ I’m looking to collaborate on any Projrct for beginners based on Data Analytics
+- 👀 I’m into Data Analytics
+- 🌱 I’m have experience in SQL, Excel, Power BI and Tableu
+- 💞️ I’m open to collaborate on any Project for beginners and advance based on Data Analytics
 - 📫 How to reach me - You can reach me on Sattickkar1@gmail.com
 
 <!---
